@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-hope-hodgson/the-night-land</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-04-14T21:13:11Z</dc:date>
+		<meta property="dcterms:modified">2020-04-14T21:13:11Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -33,15 +33,21 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="se:subject">Science Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description"> LONG_DESCRIPTION </meta>
+		<dc:description id="description">A 17th-century gentleman is reincarnated on a far-future Earth where the sun has died, and scours the hellish landscape for his lost love.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;&lt;i&gt;The Night Land&lt;/i&gt; is science fiction ahead of its time. Published in 1912, the book introduces a 17th-century gentleman who loses his wife. He soon discovers himself somehow reanimated in Earth’s far future, millions of years from now, when the sun has died and the Earth has become a hellish waste. What remains of humanity lives in titanic mile-high pyramids surrounded by energy shields to protect them from the abhuman monsters lurking in the darkness.&lt;/p&gt;
+			&lt;p&gt;The human survivors soon receive a distress signal sent by a long-forgotten lesser pyramid, and the narrator embarks on a bloody quest to rescue the maiden of the pyramid—which he knows to be his lost love, somehow transcending time and space. On his journey the narrator is beset by countless horrifying monsters, many of them mutated former-humans. These depictions are so singular that H. P. Lovecraft called &lt;i&gt;The Night Land&lt;/i&gt; “one of the most potent pieces of macabre imagination ever written.”&lt;/p&gt;
+			&lt;p&gt;The novel is unique in its farsighted depiction of technology. The narrator has telepathic powers and is able to communicate with others over long distances. These powers are enabled by his “brain elements,” which are possibly surgically-implanted. Telepathic communications may be spied upon by the monsters of the waste, but a “master word” sent by the caller may verify the integrity of the signal—a description of a kind of early public-key cryptography.&lt;/p&gt;
+			&lt;p&gt;The narrator survives on food pellets and “powdered water,” predicting a kind of astronaut food. His weapon of choice is a Diskos, a kind of whirling razor-sharp blade that shoots fire and energy. The machines and force fields of the human pyramid monument are powered by “Earth current,” which the narrator worries is slowly becoming dimmer over the years. The pyramid itself is a jewel of imagination: described as miles wide and miles high, each layer is its own city, and it continues deep underground where artificial grow chambers provide food for millions of humans.&lt;/p&gt;
+			&lt;p&gt;Though the novel maintains a sort of legendary status for its grim and imaginative depiction of a monstrous future world, critics acknowledge the work as a flawed masterpiece. The narrative is written in a highly affected style, perhaps meant to emulate 17th century speech, or perhaps meant to be a stylized form of speech used by far-future humans. In any case, it resembles no &lt;em&gt;real&lt;/em&gt; style of English, past or present. While some critics praise this style as uniquely atmospheric, others point to it, along with the lack of dialog or proper names, as some of the book’s more difficult aspects. Critics also frequently cite the book’s highly repetitious nature, simplistic characterization, and inordinate length—nearly 200,000 words—as major flaws. But despite whatever flaws the novel may have, the awesome vision of &lt;i&gt;The Night Land&lt;/i&gt; remains a marvel to behold.&lt;/p&gt;
+		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10662</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID3fc4475f28d9c</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID3fc447f5f10f3</dc:source>
-		<meta property="se:production-notes">The prose style and spelling is purposely strange and archaic, so the spelling has not been modernized at all.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:production-notes">The prose style and spelling is purposely affected and archaic, so the spelling has not been modernized at all.</meta>
+		<meta property="se:word-count">197186</meta>
+		<meta property="se:reading-ease.flesch">64.41</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Night_Land</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-hope-hodgson_the-night-land</meta>
 		<dc:creator id="author">William Hope Hodgson</dc:creator>

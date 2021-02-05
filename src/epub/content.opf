@@ -31,7 +31,7 @@
 		<meta property="file-as" refines="#title">Night Land, The</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">A 17th-century gentleman is reincarnated on a far-future Earth where the sun has died, and scours the hellish landscape for his lost love.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">

@@ -46,7 +46,7 @@
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID3fc447f5f10f3</dc:source>
 		<meta property="se:production-notes">The prose style and spelling is purposely affected and archaic, so the spelling has not been modernized at all.</meta>
 		<meta property="se:word-count">197186</meta>
-		<meta property="se:reading-ease.flesch">64.41</meta>
+		<meta property="se:reading-ease.flesch">64.51</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Night_Land</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-hope-hodgson_the-night-land</meta>
 		<dc:creator id="author">William Hope Hodgson</dc:creator>
